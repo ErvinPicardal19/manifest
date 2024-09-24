@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/ErvinPicardal19" name="origin"/>
+
+  <default remote="origin" sync-j="4" revision="master"/>
+
+  <project name="holy_grail" path="holy_grail"/>
+  <project name="sercomm_training" path="sercomm_training"/>
+  
+</manifest>
